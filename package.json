@@ -4,7 +4,7 @@
   "description": "Aprender el asincronismo en Javascript con el curso de asincronismo de Platzi",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/index.js"
   },
   "keywords": [
     "callbacks",
